@@ -4,10 +4,6 @@
 
 ## Lab01, Instructions
 
-In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
-
-Please write below this line to address the above-mentioned points. Replace the word, `TODO` with your response.
-
 ### First Tool (Cutadapt)
 
  1. What kind of research is this method or tool used for?
@@ -16,7 +12,7 @@ The type of research that this tool Cutadapt is developed to facilitate is the f
 
  2. How does this method or tool work? What does it do?
 
-The way in which Cutadapt works is that it's able to clean up the data in your DNA sequence data file. This means that you can format your data in a way that is more readable for a program or a person. When you run this tool it first processes the data and begins to detect the multiple `adapter types`. The adapter types that it works with is `5'` and `3'`. You can also determine when the program has to trim out sections of the data and set your error tolerance.
+The way in which Cutadapt works is that it's able to clean up the data in your DNA sequence data file. This means that you can format your data in a way that is more readable for a program or a person. When you run this tool it first processes the data and begins to detect the multiple `adapter types`. The adapter types that it works with are `5'` and `3'`. You can also determine when the program has to trim out sections of the data and set your error tolerance.
 
  3. Why do you think that this method or tool was necessary to develop?
     
@@ -24,7 +20,7 @@ I think that this tool Cutadapt was necessary to develop because it's very impor
 
  4. What undesirable consequences could result from the misuse of this method of tool? 
 
-A potential misuse of this tool could include 
+A potential misuse of this tool could include intentionally/unintentionally  removing the wrong sections of the code that were supposed to stay in the cleaned and formatted data file. This could alter the results of any analysis or research performed on the incorrectly cleaned data file.
 
 
 ### Second Tool (FastQC)
