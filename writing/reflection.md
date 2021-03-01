@@ -16,13 +16,15 @@ The type of research that this tool Cutadapt is developed to facilitate is the f
 
  2. How does this method or tool work? What does it do?
 
-The way in which Cutadapt works is that it's able to clean up the data in your DNA sequence data file. This means that you can format your data in a way that is more readable for a program or a person.
+The way in which Cutadapt works is that it's able to clean up the data in your DNA sequence data file. This means that you can format your data in a way that is more readable for a program or a person. When you run this tool it first processes the data and begins to detect the multiple `adapter types`. The adapter types that it works with is `5'` and `3'`. You can also determine when the program has to trim out sections of the data and set your error tolerance.
 
  3. Why do you think that this method or tool was necessary to develop?
     
-I think that this tool Cutadapt 
+I think that this tool Cutadapt was necessary to develop because it's very important to be able to make accurate and clean edits to a file containing DNA information. Since with this tool you cam make your data more accurate, this would therefore return more accurate results for when you use this information in an experiment. 
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool? 
+
+A potential misuse of this tool could include 
 
 
 ### Second Tool (FastQC)
